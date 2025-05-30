@@ -1,0 +1,23 @@
+investment-system/
+│
+├── config/
+│   └── db.php
+│
+├── cron/
+│   └── calculate_profit.php
+│
+├── includes/
+│   ├── functions.php
+│   ├── auth.php
+│   └── session.php
+│
+├── public/
+│   ├── index.php (login)
+│   ├── register.php
+│   ├── dashboard.php
+│   ├── deposit.php
+│   ├── withdraw.php
+│   └── history.php
+│
+└── sql/
+    └── schema.sql
